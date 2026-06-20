@@ -1,23 +1,3 @@
-Get the document info from https://open-congress-api.bettergov.ph/api/scalar#tag/documents/GET/documents
-
-COnnect the data (DOCUMENTS ONLY) with HuggingFace from https://huggingface.co/datasets/bettergovph/raw-philippine-data
-
-Enrich the data by attaching the document information from the Congress API to the huggingface
-
-Introduce NLP to get summarization
-
-
-Get the documents by the congress API code for the 13th-20th congress (Also have authors)
-
-Final Table: HB ID, Authors, Title, Date, etc /
-
-COnnect with HuggingFace to get 13th-20th congress documents
-
-Final table: HB ID/SB, content
-
-
-Profit
-
 # **BATAS Project (Legislative Bills and Text Analyzation and Summarization)**
 ## Transforming Raw House Bills into Scannable, NLP-Powered Insights.
 -------------------------
