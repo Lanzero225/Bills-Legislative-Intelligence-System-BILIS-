@@ -1,4 +1,4 @@
-# **BILIS (Legislative Bills Intelligence System)**
+# **BILIS (Legislative Bills Information Summarizer)**
 ## Transforming Raw House Bills into Scannable, NLP-Powered Insights.
 -------------------------
 
