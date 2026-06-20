@@ -1,4 +1,4 @@
-# **BATAS Project (Legislative Bills and Text Analyzation and Summarization)**
+# **BILIS (Legislative Bills Intelligence System)**
 ## Transforming Raw House Bills into Scannable, NLP-Powered Insights.
 -------------------------
 
